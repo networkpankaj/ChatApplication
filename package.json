@@ -1,0 +1,12 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "node backend/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
